@@ -88,7 +88,7 @@
                         @if (Route::has('register'))
                             <a
                                 href="{{ route('register') }}"
-                                class="nav-link px-5 py-2 border border-brown-dark rounded-md bg-gold-accent text-brown-dark hover:bg-brown-medium hover:text-cream-light"
+                                class="nav-link px-5 py-2 border border-brown-dark rounded-md bg-black text-brown-dark hover:bg-brown-medium hover:text-cream-light"
                             >
                                 Register
                             </a>
